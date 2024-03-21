@@ -1,0 +1,215 @@
+/*!
+
+JSZip v3.10.1 - A JavaScript class for generating and reading zip files
+<http://stuartk.com/jszip>
+
+(c) 2009-2016 Stuart Knightley <stuart [at] stuartk.com>
+Dual licenced under the MIT license or GPLv3. See https://raw.github.com/Stuk/jszip/main/LICENSE.markdown.
+
+JSZip uses the library pako released under the MIT license :
+https://github.com/nodeca/pako/blob/main/LICENSE
+*/
+
+/*!
+  * Bootstrap dropdown.js v4.6.2 (https://getbootstrap.com/)
+  * Copyright 2011-2022 The Bootstrap Authors (https://github.com/twbs/bootstrap/graphs/contributors)
+  * Licensed under MIT (https://github.com/twbs/bootstrap/blob/main/LICENSE)
+  */
+
+/*!
+  * Bootstrap modal.js v4.6.2 (https://getbootstrap.com/)
+  * Copyright 2011-2022 The Bootstrap Authors (https://github.com/twbs/bootstrap/graphs/contributors)
+  * Licensed under MIT (https://github.com/twbs/bootstrap/blob/main/LICENSE)
+  */
+
+/*!
+  * Bootstrap tab.js v4.6.2 (https://getbootstrap.com/)
+  * Copyright 2011-2022 The Bootstrap Authors (https://github.com/twbs/bootstrap/graphs/contributors)
+  * Licensed under MIT (https://github.com/twbs/bootstrap/blob/main/LICENSE)
+  */
+
+/*!
+  * Bootstrap tooltip.js v4.6.2 (https://getbootstrap.com/)
+  * Copyright 2011-2022 The Bootstrap Authors (https://github.com/twbs/bootstrap/graphs/contributors)
+  * Licensed under MIT (https://github.com/twbs/bootstrap/blob/main/LICENSE)
+  */
+
+/*!
+  * Bootstrap util.js v4.6.2 (https://getbootstrap.com/)
+  * Copyright 2011-2022 The Bootstrap Authors (https://github.com/twbs/bootstrap/graphs/contributors)
+  * Licensed under MIT (https://github.com/twbs/bootstrap/blob/main/LICENSE)
+  */
+
+/*!
+ * jQuery JavaScript Library v3.7.1
+ * https://jquery.com/
+ *
+ * Copyright OpenJS Foundation and other contributors
+ * Released under the MIT license
+ * https://jquery.org/license
+ *
+ * Date: 2023-08-28T13:37Z
+ */
+
+/*!
+ * wavesurfer.js 3.3.3 (2020-04-16)
+ * https://github.com/katspaugh/wavesurfer.js
+ * @license BSD-3-Clause
+ */
+
+/*! ./ajax */
+
+/*! ./drawer */
+
+/*! ./drawer.canvasentry */
+
+/*! ./drawer.multicanvas */
+
+/*! ./extend */
+
+/*! ./fetch */
+
+/*! ./frame */
+
+/*! ./get-id */
+
+/*! ./max */
+
+/*! ./mediaelement */
+
+/*! ./mediaelement-webaudio */
+
+/*! ./min */
+
+/*! ./observer */
+
+/*! ./peakcache */
+
+/*! ./prevent-click */
+
+/*! ./request-animation-frame */
+
+/*! ./style */
+
+/*! ./util */
+
+/*! ./util/get-id */
+
+/*! ./util/style */
+
+/*! ./webaudio */
+
+/*! debounce */
+
+/*! no static exports found */
+
+/*! regenerator-runtime -- Copyright (c) 2014-present, Facebook, Inc. -- license (MIT): https://github.com/facebook/regenerator/blob/main/LICENSE */
+
+/*!***********************!*\
+  !*** ./src/drawer.js ***!
+  \***********************/
+
+/*!*************************!*\
+  !*** ./src/util/max.js ***!
+  \*************************/
+
+/*!*************************!*\
+  !*** ./src/util/min.js ***!
+  \*************************/
+
+/*!*************************!*\
+  !*** ./src/webaudio.js ***!
+  \*************************/
+
+/*!**************************!*\
+  !*** ./src/peakcache.js ***!
+  \**************************/
+
+/*!**************************!*\
+  !*** ./src/util/ajax.js ***!
+  \**************************/
+
+/*!***************************!*\
+  !*** ./src/util/fetch.js ***!
+  \***************************/
+
+/*!***************************!*\
+  !*** ./src/util/frame.js ***!
+  \***************************/
+
+/*!***************************!*\
+  !*** ./src/util/index.js ***!
+  \***************************/
+
+/*!***************************!*\
+  !*** ./src/util/style.js ***!
+  \***************************/
+
+/*!***************************!*\
+  !*** ./src/wavesurfer.js ***!
+  \***************************/
+
+/*!****************************!*\
+  !*** ./src/util/extend.js ***!
+  \****************************/
+
+/*!****************************!*\
+  !*** ./src/util/get-id.js ***!
+  \****************************/
+
+/*!*****************************!*\
+  !*** ./src/mediaelement.js ***!
+  \*****************************/
+
+/*!******************************!*\
+  !*** ./src/util/observer.js ***!
+  \******************************/
+
+/*!***********************************!*\
+  !*** ./src/drawer.canvasentry.js ***!
+  \***********************************/
+
+/*!***********************************!*\
+  !*** ./src/drawer.multicanvas.js ***!
+  \***********************************/
+
+/*!***********************************!*\
+  !*** ./src/util/prevent-click.js ***!
+  \***********************************/
+
+/*!**************************************!*\
+  !*** ./src/mediaelement-webaudio.js ***!
+  \**************************************/
+
+/*!****************************************!*\
+  !*** ./node_modules/debounce/index.js ***!
+  \****************************************/
+
+/*!*********************************************!*\
+  !*** ./src/util/request-animation-frame.js ***!
+  \*********************************************/
+
+/**!
+ * @fileOverview Kickass library to create and place poppers near their reference elements.
+ * @version 1.16.1
+ * @license
+ * Copyright (c) 2016 Federico Zivolo and contributors
+ *
+ * Permission is hereby granted, free of charge, to any person obtaining a copy
+ * of this software and associated documentation files (the "Software"), to deal
+ * in the Software without restriction, including without limitation the rights
+ * to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+ * copies of the Software, and to permit persons to whom the Software is
+ * furnished to do so, subject to the following conditions:
+ *
+ * The above copyright notice and this permission notice shall be included in all
+ * copies or substantial portions of the Software.
+ *
+ * THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+ * IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+ * FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+ * AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+ * LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+ * OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+ * SOFTWARE.
+ */
